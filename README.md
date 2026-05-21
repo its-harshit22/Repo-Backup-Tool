@@ -12,7 +12,7 @@ Automatically Backup Your GitHub Repositories Like a Pro 🚀
  
 ## 📌 About Project
 
-💾 Repo Backup Tool helps developers backup all repositories automatically.
+💾 Repo Backup Tool helps developers backup all repositories automatically and systematically.
 
 ✅ Clone all repos  
 ✅ Download private/public repos  
