@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Repo Backup Tool</h1>
 
 <p align="center">
-Automatically Backup Your GitHub Repositories Like a Pro 🚀
+Automatically Backup Your GitHub Repositories Like a Pro 🚀 
 </p>
 
 <p align="center">
